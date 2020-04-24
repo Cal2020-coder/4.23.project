@@ -1,0 +1,17 @@
+header {
+  color: blue;
+  background:blanchedalmond;
+}
+
+ul{
+  list-style-type: none;
+  color: black;
+}
+
+section {
+  color: black;
+}
+
+div {
+  background: cadetblue;
+}
